@@ -1,2 +1,2 @@
-# Final-Thesis-
+# Final-Thesis
 Comparing music recommendation algorithm
